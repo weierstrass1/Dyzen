@@ -1,0 +1,15 @@
+C:\Users\Patricio Diaz\source\repos\Dyzen\Dyzen\bin\Debug\Dyzen.exe.config
+C:\Users\Patricio Diaz\source\repos\Dyzen\Dyzen\bin\Debug\Dyzen.exe
+C:\Users\Patricio Diaz\source\repos\Dyzen\Dyzen\bin\Debug\Dyzen.pdb
+C:\Users\Patricio Diaz\source\repos\Dyzen\Dyzen\obj\Debug\Dyzen.csprojResolveAssemblyReference.cache
+C:\Users\Patricio Diaz\source\repos\Dyzen\Dyzen\obj\Debug\Dyzen.Properties.Resources.resources
+C:\Users\Patricio Diaz\source\repos\Dyzen\Dyzen\obj\Debug\Dyzen.csproj.GenerateResource.cache
+C:\Users\Patricio Diaz\source\repos\Dyzen\Dyzen\obj\Debug\Dyzen.csproj.CoreCompileInputs.cache
+C:\Users\Patricio Diaz\source\repos\Dyzen\Dyzen\obj\Debug\Dyzen.exe
+C:\Users\Patricio Diaz\source\repos\Dyzen\Dyzen\obj\Debug\Dyzen.pdb
+C:\Users\Patricio Diaz\source\repos\Dyzen\Dyzen\bin\Debug\backend.dll
+C:\Users\Patricio Diaz\source\repos\Dyzen\Dyzen\bin\Debug\backend.pdb
+C:\Users\Patricio Diaz\source\repos\Dyzen\Dyzen\obj\Debug\Dyzen.Dyzen.resources
+C:\Users\Patricio Diaz\source\repos\Dyzen\Dyzen\obj\Debug\Dyzen.csproj.CopyComplete
+C:\Users\Patricio Diaz\source\repos\Dyzen\Dyzen\bin\Debug\controls.dll
+C:\Users\Patricio Diaz\source\repos\Dyzen\Dyzen\bin\Debug\controls.pdb
